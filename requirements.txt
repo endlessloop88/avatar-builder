@@ -1,0 +1,1 @@
+python-avatars==1.4.1

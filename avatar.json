@@ -1,0 +1,18 @@
+{
+  "parts": {
+    "top": ["SHORT_WAVED", "SHORT_FLAT", "SHORT_ROUND"],
+    "eyebrows": ["DEFAULT_NATURAL", "DEFAULT"],
+    "eyes": ["DEFAULT"],
+    "nose": ["DEFAULT"],
+    "mouth": ["SERIOUS", "DEFAULT", "SMILE"],
+    "facial_hair": ["NONE"],
+    "accessory": ["NONE"],
+    "clothing": ["SHIRT_CREW_NECK", "COLLAR_SWEATER", "HOODIE"]
+  },
+  "colors": {
+    "skin_color": "#F1C6A0",
+    "hair_color": "#2A1A14",
+    "clothing_color": "#14213D",
+    "background_color": "#0F172A"
+  }
+}
